@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMgmt", "TaskMgmt\TaskMgmt.csproj", "{BC63CD86-187B-4543-972D-5AF73B978EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo", "Repo\Repo.csproj", "{2340C882-6889-4A41-AA9E-2C79073FAC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC63CD86-187B-4543-972D-5AF73B978EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC63CD86-187B-4543-972D-5AF73B978EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC63CD86-187B-4543-972D-5AF73B978EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC63CD86-187B-4543-972D-5AF73B978EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2340C882-6889-4A41-AA9E-2C79073FAC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2340C882-6889-4A41-AA9E-2C79073FAC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2340C882-6889-4A41-AA9E-2C79073FAC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2340C882-6889-4A41-AA9E-2C79073FAC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98274894-2871-4930-AC90-930F2D5115F9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\bin\Debug\net8.0\Repo.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\bin\Debug\net8.0\Repo.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\Service\obj\Debug\net8.0\ref\Service.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\bin\Debug\net8.0\Service.deps.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\bin\Debug\net8.0\Service.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\bin\Debug\net8.0\Service.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\bin\Debug\net8.0\Repo.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\bin\Debug\net8.0\Repo.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\refint\Service.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\ref\Service.dll

@@ -1,0 +1,188 @@
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\appsettings.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.staticwebassets.endpoints.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.exe
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.deps.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.runtimeconfig.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Repo.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Service.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Service.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Repo.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.csproj.AssemblyReference.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.AssemblyInfoInputs.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.AssemblyInfo.cs
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.csproj.CoreCompileInputs.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\scopedcss\bundle\TaskMgmt.styles.css
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.TaskMgmt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.TaskMgmt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskMgmt.props
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskMgmt.props
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskMgmt.props
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.csproj.Up2Date
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\refint\TaskMgmt.dll
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.pdb
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.genruntimeconfig.cache
+C:\Users\Bacancy\source\repos\TaskMgmt\TaskMgmt\obj\Debug\net8.0\ref\TaskMgmt.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\appsettings.Development.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\appsettings.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.staticwebassets.endpoints.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.exe
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.deps.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.runtimeconfig.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\TaskMgmt.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Azure.Core.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Azure.Identity.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.ClientModel.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Memory.Data.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Text.Json.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Repo.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Service.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Service.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\bin\Debug\net8.0\Repo.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.csproj.AssemblyReference.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.AssemblyInfoInputs.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.AssemblyInfo.cs
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.csproj.CoreCompileInputs.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.MvcApplicationPartsAssemblyInfo.cs
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.MvcApplicationPartsAssemblyInfo.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\scopedcss\bundle\TaskMgmt.styles.css
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.build.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.development.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.TaskMgmt.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.TaskMgmt.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskMgmt.props
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskMgmt.props
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskMgmt.props
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.csproj.Up2Date
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\refint\TaskMgmt.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.pdb
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\TaskMgmt.genruntimeconfig.cache
+D:\My Personal Git\task-maanagement-system\TaskMgmt\TaskMgmt\obj\Debug\net8.0\ref\TaskMgmt.dll
