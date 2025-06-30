@@ -26,3 +26,4 @@ D:\My Personal Git\task-maanagement-system\TaskMgmt\Repo\obj\Debug\net8.0\refint
 D:\My Personal Git\task-maanagement-system\TaskMgmt\Repo\obj\Debug\net8.0\Repo.pdb
 D:\My Personal Git\task-maanagement-system\TaskMgmt\Repo\obj\Debug\net8.0\Repo.genruntimeconfig.cache
 D:\My Personal Git\task-maanagement-system\TaskMgmt\Repo\obj\Debug\net8.0\ref\Repo.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Repo\obj\Debug\net8.0\Repo.sourcelink.json

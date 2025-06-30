@@ -1,0 +1,228 @@
+<div
+  class="container min-vh-100 d-flex align-items-center justify-content-center"
+>
+  <div class="bg-white shadow rounded-4 p-4 w-100" style="max-width: 32rem">
+    <h1 class="h4 fw-bold text-success text-center mb-4">Register</h1>
+    <form (ngSubmit)="submitForm(formData)" #formData="ngForm">
+      <div class="row g-3">
+        <div class="col-md-6">
+          <input
+            type="text"
+            id="firstname"
+            class="form-control"
+            placeholder="First Name"
+            ngModel
+            name="firstname"
+            #firstname="ngModel"
+            required
+            minlength="5"
+          />
+          <div
+            class="form-text text-danger"
+            *ngIf="firstname.touched && firstname.errors?.['required']"
+          >
+            Firstname is required.
+          </div>
+          <div
+            class="form-text text-danger"
+            *ngIf="firstname.touched && firstname.errors?.['minlength']"
+          >
+            Firstname's minlength is 5.
+          </div>
+        </div>
+        <div class="col-md-6">
+          <input
+            type="text"
+            id="lastname"
+            class="form-control"
+            placeholder="Last Name"
+            ngModel
+            name="lastname"
+            #lastname="ngModel"
+            required
+            minlength="5"
+          />
+          <div
+            class="form-text text-danger"
+            *ngIf="lastname.touched && lastname.errors?.['required']"
+          >
+            Lastname is required.
+          </div>
+          <div
+            class="form-text text-danger"
+            *ngIf="lastname.touched && lastname.errors?.['minlength']"
+          >
+            Lastname's minlength is 5.
+          </div>
+        </div>
+      </div>
+
+      <div class="mb-3 mt-3">
+        <input
+          type="text"
+          pattern="^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$"
+          id="email"
+          class="form-control"
+          placeholder="Email ID"
+          ngModel
+          name="email"
+          #email="ngModel"
+          required
+        />
+        <div
+          class="form-text text-danger"
+          *ngIf="email.touched && email.errors?.['required']"
+        >
+          Email is required.
+        </div>
+        <div
+          class="form-text text-danger"
+          *ngIf="email.touched && email.errors?.['pattern']"
+        >
+          Email is not valid.
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <input
+          type="number"
+          id="phone"
+          class="form-control"
+          placeholder="Phone Number"
+          ngModel
+          name="phone"
+          #phone="ngModel"
+          required
+          pattern="[0-9]*"
+        />
+        <div
+          class="form-text text-danger"
+          *ngIf="phone.touched && phone.errors?.['required']"
+        >
+          Phone is required.
+        </div>
+        <div
+          class="form-text text-danger"
+          *ngIf="phone.touched && phone.errors?.['pattern']"
+        >
+          Phone must contain only numbers.
+        </div>
+        <div
+          class="form-text text-danger"
+          *ngIf="phone.touched && phone.value?.toString().length !== 10"
+        >
+          Phone must be 10 digits long.
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <input
+          type="password"
+          id="password"
+          class="form-control"
+          placeholder="Enter your password"
+          ngModel
+          name="password"
+          #password="ngModel"
+          required
+          pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$"
+        />
+        <div
+          class="form-text text-danger"
+          *ngIf="password.touched && password.errors?.['required']"
+        >
+          Password is required.
+        </div>
+        <div
+          class="form-text text-danger"
+          *ngIf="password.touched && password.errors?.['pattern']"
+        >
+          Password must contain at least 8 characters, including one uppercase
+          letter, one lowercase letter, and one number.
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label">Gender</label>
+        <div class="form-check form-check-inline">
+          <input
+            type="radio"
+            id="male"
+            name="gender"
+            value="male"
+            class="form-check-input"
+            ngModel
+            [ngModel]="defaultgender"
+          />
+          <label for="male" class="form-check-label">Male</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input
+            type="radio"
+            id="female"
+            name="gender"
+            value="female"
+            class="form-check-input"
+            ngModel
+            [ngModel]="defaultgender"
+            required
+          />
+          <label for="female" class="form-check-label">Female</label>
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label class="form-label" for="city">City</label>
+        <select id="city" name="city" class="form-select" ngModel required>
+          <option value="" disabled selected>Select your city</option>
+          <option value="Bhavnagar">Bhavnagar</option>
+          <option value="Gandhinagar">Gandhinagar</option>
+          <option value="Nadiad">Nadiad</option>
+          <option value="Baroda">Baroda</option>
+        </select>
+      </div>
+
+      <p class="form-text text-danger" *ngIf="userAlreadyExists">
+        User with this email and phone already exists.
+      </p>
+      <!-- <div class="row g-2 mb-3">
+        <div class="col">
+          <button
+            type="button"
+            (click)="patchValue()"
+            class="btn btn-outline-primary w-100"
+          >
+            Patch Values
+          </button>
+        </div>
+        <div class="col">
+          <button
+            type="submit"
+            (click)="resetForm(formData)"
+            class="btn btn-outline-secondary w-100"
+          >
+            Reset Values
+          </button>
+        </div>
+        <div class="col">
+          <button
+            type="button"
+            (click)="setValues(formData)"
+            class="btn btn-outline-success w-100"
+          >
+            Set Values
+          </button>
+        </div>
+      </div> -->
+      <button
+        type="submit"
+        [disabled]="!formData.valid"
+        class="btn btn-primary w-100"
+        [ngClass]="{ disabled: !formData.valid }"
+      >
+        Save
+      </button>
+    </form>
+  </div>
+</div>
+

@@ -28,3 +28,6 @@ D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Ser
 D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\refint\Service.dll
 D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.pdb
 D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\ref\Service.dll
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\My Personal Git\task-maanagement-system\TaskMgmt\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache

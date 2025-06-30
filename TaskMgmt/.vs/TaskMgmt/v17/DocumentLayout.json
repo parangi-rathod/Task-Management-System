@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\taskmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|solutionrelative:taskmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\service\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|solutionrelative:service\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|solutionrelative:service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\taskmgmt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|solutionrelative:taskmgmt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\service\\dtos\\baseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|solutionrelative:service\\dtos\\baseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\service\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|solutionrelative:service\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\taskmgmt\\taskmgmt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|solutionrelative:taskmgmt\\taskmgmt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\taskmgmt\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|solutionrelative:taskmgmt\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\taskmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|solutionrelative:taskmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\service\\mappingprofile\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|solutionrelative:service\\mappingprofile\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2340C882-6889-4A41-AA9E-2C79073FAC90}|Repo\\Repo.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\repo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2340C882-6889-4A41-AA9E-2C79073FAC90}|Repo\\Repo.csproj|solutionrelative:repo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5117603F-E6B2-49E0-9FDA-4E2D4540FBA2}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2340C882-6889-4A41-AA9E-2C79073FAC90}|Repo\\Repo.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\repo\\repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2340C882-6889-4A41-AA9E-2C79073FAC90}|Repo\\Repo.csproj|solutionrelative:repo\\repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2340C882-6889-4A41-AA9E-2C79073FAC90}|Repo\\Repo.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\repo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2340C882-6889-4A41-AA9E-2C79073FAC90}|Repo\\Repo.csproj|solutionrelative:repo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|d:\\my personal git\\task-maanagement-system\\taskmgmt\\taskmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC63CD86-187B-4543-972D-5AF73B978EFC}|TaskMgmt\\TaskMgmt.csproj|solutionrelative:taskmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +62,73 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseResponseDTO.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\DTOs\\BaseResponseDTO.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\BaseResponseDTO.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\DTOs\\BaseResponseDTO.cs",
+              "RelativeToolTip": "Service\\DTOs\\BaseResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:41:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskMgmt",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\TaskMgmt.csproj",
+              "RelativeDocumentMoniker": "TaskMgmt\\TaskMgmt.csproj",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\TaskMgmt.csproj",
+              "RelativeToolTip": "TaskMgmt\\TaskMgmt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T10:39:36.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "TaskMgmt\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "TaskMgmt\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:38:47.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskMgmt\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskMgmt\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:38:03.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Repo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Repo\\Models\\User.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Repo\\Models\\User.cs",
+              "RelativeToolTip": "Repo\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:24:34.808Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -50,40 +155,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Service",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T09:39:36.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\MappingProfile\\UserMapping.cs",
+              "RelativeDocumentMoniker": "Service\\MappingProfile\\UserMapping.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\MappingProfile\\UserMapping.cs",
+              "RelativeToolTip": "Service\\MappingProfile\\UserMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:29:56.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\DTOs\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\RegisterUserDTO.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\DTOs\\RegisterUserDTO.cs",
+              "RelativeToolTip": "Service\\DTOs\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:20:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interface\\IAuthService.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Services\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:20:02.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AuthService.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:19:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMgmt\\Program.cs",
+              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\Program.cs",
+              "RelativeToolTip": "TaskMgmt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:00:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\appsettings.json",
               "RelativeDocumentMoniker": "TaskMgmt\\appsettings.json",
               "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\TaskMgmt\\appsettings.json",
               "RelativeToolTip": "TaskMgmt\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-27T09:03:21.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Repo.csproj",
               "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Repo\\Repo.csproj",
               "RelativeDocumentMoniker": "Repo\\Repo.csproj",
               "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Repo\\Repo.csproj",
               "RelativeToolTip": "Repo\\Repo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-27T08:44:09.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Repo\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Repo\\AppDbContext.cs",
-              "ToolTip": "D:\\My Personal Git\\task-maanagement-system\\TaskMgmt\\Repo\\AppDbContext.cs",
-              "RelativeToolTip": "Repo\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:25:57.194Z"
+              "WhenOpened": "2025-06-27T08:44:09.718Z",
+              "EditorCaption": ""
             }
           ]
         }
