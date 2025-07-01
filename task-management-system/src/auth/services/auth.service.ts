@@ -1,7 +1,8 @@
-import { Injectable } from '@angular/core';
+import { inject, Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { User, RegisterRequest, LoginResponse, LoginRequest, } from '../models/user.model';
 import { SimpleResponse } from '../models/baseResponse.model';
+import { backendUrl } from '../../environments/env';
 
 @Injectable({
   providedIn: 'root'
@@ -10,27 +11,12 @@ export class AuthService {
   private apiUrl = 'https://localhost:7000/api'; // Update with your .NET API URL
   private currentUser: User | null = null;
 
-  constructor(private http: HttpClient) {
-    // No localStorage initialization
-  }
+  private readonly http = inject(HttpClient);
 
-  // Simple registration method with API call
-  // public registerUser(registerData: RegisterRequest): void {
-  //   // Make HTTP POST request to .NET API
-  //   this.http.post<SimpleResponse>(`${this.apiUrl}/auth/register`, registerData)
-  //     .subscribe({
-  //       next: (response) => {
-  //         // console.log('Registration response:', response);
-  //       },
-  //       error: (error) => {
-  //         console.error('Registration error:', error);
-  //       }
-  //     });
-  // }
   // Modified registration method returning SimpleResponse
   public registerUser(registerData: RegisterRequest): SimpleResponse {
     let result: SimpleResponse = { success: false, message: '' };
-    this.http.post<SimpleResponse>(`${this.apiUrl}/auth/register`, registerData)
+    this.http.post<SimpleResponse>(`${backendUrl}/auth/register`, registerData)
       .subscribe({
         next: (response) => {
           result = response;

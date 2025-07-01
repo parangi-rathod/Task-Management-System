@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Service;
 
 namespace TaskMgmt.Controllers
@@ -18,12 +17,20 @@ namespace TaskMgmt.Controllers
             _authService = authService;
         }
         #endregion
+        
         [HttpPost("RegisterUser")]
         public async Task<IActionResult> RegisterUser([FromBody] RegisterUserDTO loginDTO)
         {
             var response = await _authService.RegisterUser(loginDTO);
             return Ok(response);
         }
-       
+
+        [HttpPost("IsUserAlreadyExists")]
+        public async Task<IActionResult> UserAlreadyExists([FromBody] RegisterUserDTO loginDTO)
+        {
+            var response = await _authService.RegisterUser(loginDTO);
+            return Ok(response);
+        }
+
     }
 }

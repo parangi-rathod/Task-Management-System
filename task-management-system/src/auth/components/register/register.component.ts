@@ -4,6 +4,7 @@ import { User, RegisterRequest } from '../../models/user.model';
 import { AuthService } from '../../services/auth.service';
 import { Router } from '@angular/router';
 import { CommonModule } from '@angular/common';
+import { Constants } from '../../constants/constants';
 
 @Component({
   selector: 'app-register',
@@ -15,63 +16,25 @@ export class RegisterComponent implements OnInit {
   @ViewChild('registerForm') registerForm!: NgForm;
 
   // Component properties for data binding
-  public defaultgender: string = 'male';
+  public defaultgender: string = Constants.defaultGender;
   public isLoading: boolean = false;
   public errorMessage: string = '';
   public successMessage: string = '';
   public userAlreadyExists: boolean = false;
   
-  // Form data model
-  public userData: User = {
-    firstname: '',
-    lastname: '',
-    email: '',
-    phone: 0,
-    password: '',
-    gender: 'female',
-    roleId: 2 // Default to user role
-  };
+  // Gender options for dropdown using constants
+  public genderOptions = Constants.genderOptions;
 
-  // Gender options for dropdown
-  public genderOptions = [
-    { value: 'male', label: 'Male' },
-    { value: 'female', label: 'Female' },
-    { value: 'other', label: 'Other' }
-  ];
-
+  // Dependency injection in constructor
   constructor(
     private router: Router,
     private authService: AuthService
   ) {}
 
   ngOnInit(): void {
-    this.initRolesTable();
+    // Initialization logic if needed
   }
-
-  private initRolesTable(): void {
-    const roles = localStorage.getItem('roles');
-    if (!roles) {
-      const defaultRoles = [
-        { id: 1, name: 'admin', description: 'Administrator with full access' },
-        { id: 2, name: 'user', description: 'Regular user with limited access' }
-      ];
-      localStorage.setItem('roles', JSON.stringify(defaultRoles));
-    }
-  }
-
-  // Method to set sample values (for testing)
-  public setValues(): void {
-    this.userData = {
-      firstname: 'Parangi',
-      lastname: 'Rathod',
-      email: 'parangirathod27@gmail.com',
-      phone: 9726976891,
-      password: '2527@Parangi',
-      gender: 'female',
-      roleId: 2
-    };
-  }
-
+  
   // Submit form method - simplified without RxJS
   public submitForm(formData: NgForm): void {
     // Reset messages
@@ -79,37 +42,31 @@ export class RegisterComponent implements OnInit {
     this.successMessage = '';
     this.userAlreadyExists = false;
 
+    console.log('Form submitted:', formData.value);
     if (formData.valid) {
       this.isLoading = true;
 
-      // Prepare registration data
+      // Prepare registration data using form values
       const registerData: RegisterRequest = {
-        firstName: this.userData.firstname,
-        lastName: this.userData.lastname,
-        email: this.userData.email,
-        password: this.userData.password,
-        roleId: this.userData.roleId
+        firstName: formData.value.firstname,
+        lastName: formData.value.lastname,
+        email: formData.value.email,
+        password: formData.value.password,
+        roleId: Constants.defaultRoleId // Use default role ID from constants
       };
 
       // Call auth service to register user - simplified approach
-      const registrationResult = this.authService.registerUser(registerData);
+      console.log('Registering user:', registerData);
+      this.authService.registerUser(registerData);
       
       this.isLoading = false;
       
-      if (registrationResult.success) {
-        this.successMessage = 'Registration successful! Please login.';
-        // Simple timeout without RxJS
-        setTimeout(() => {
-          this.router.navigate(['/login']);
-        }, 2000);
-      } else {
-        if (registrationResult.message.includes('already exists')) {
-          this.userAlreadyExists = true;
-          this.errorMessage = 'User with this email already exists';
-        } else {
-          this.errorMessage = registrationResult.message || 'Registration failed';
-        }
-      }
+      // Since the service method is void, we'll simulate success for now
+      this.successMessage = 'Registration request sent successfully! Please check console for response.';
+      // Simple timeout without RxJS
+      setTimeout(() => {
+        this.router.navigate(['/login']);
+      }, 2000);
     } else {
       this.errorMessage = 'Please fill all required fields correctly';
     }
@@ -117,60 +74,43 @@ export class RegisterComponent implements OnInit {
 
   // Reset form method
   public resetForm(): void {
-    this.userData = {
-      firstname: '',
-      lastname: '',
-      email: '',
-      phone: 0,
-      password: '',
-      gender: 'female',
-      roleId: 2
-    };
-    this.errorMessage = '';
-    this.successMessage = '';
-    this.userAlreadyExists = false;
-    
     if (this.registerForm) {
       this.registerForm.resetForm();
     }
+    this.errorMessage = '';
+    this.successMessage = '';
+    this.userAlreadyExists = false;
   }
 
-  // Method to patch specific values
-  public patchPhoneValue(): void {
-    this.userData.phone = 9825566774;
-  }
-
-  // Validation methods for template
-  public isEmailValid(): boolean {
+  // Validation methods for template using form data
+  public isEmailValid(formData: NgForm): boolean {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return emailRegex.test(this.userData.email);
+    return emailRegex.test(formData.value.email || '');
   }
 
-  public isPasswordValid(): boolean {
-    return this.userData.password.length >= 6;
+  public isPasswordValid(formData: NgForm): boolean {
+    return (formData.value.password || '').length >= 6;
   }
 
-  public isPhoneValid(): boolean {
-    return this.userData.phone.toString().length === 10;
+  public isPhoneValid(formData: NgForm): boolean {
+    return (formData.value.phone || '').toString().length === 10;
   }
 
-  // Method to check if form is valid
-  public isFormValid(): boolean {
-    return this.userData.firstname.length > 0 &&
-           this.userData.lastname.length > 0 &&
-           this.isEmailValid() &&
-           this.isPasswordValid() &&
-           this.isPhoneValid();
+  // Method to check if form is valid using form data
+  public isFormValid(formData: NgForm): boolean {
+    return (formData.value.firstname || '').length > 0 &&
+           (formData.value.lastname || '').length > 0 &&
+           this.isEmailValid(formData) &&
+           this.isPasswordValid(formData) &&
+           this.isPhoneValid(formData);
   }
 
-  // Helper method to get full name (for interpolation)
-  public getFullName(): string {
-    return `${this.userData.firstname} ${this.userData.lastname}`.trim();
+  // Helper method to get full name using form data
+  public getFullName(formData: NgForm): string {
+    const firstname = formData.value.firstname || '';
+    const lastname = formData.value.lastname || '';
+    return `${firstname} ${lastname}`.trim();
   }
 
-  // Method to capitalize first letter (basic string manipulation)
-  public capitalizeFirst(text: string): string {
-    if (!text) return '';
-    return text.charAt(0).toUpperCase() + text.slice(1).toLowerCase();
-  }
+ 
 }

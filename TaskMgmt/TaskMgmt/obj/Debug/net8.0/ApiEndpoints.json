@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "TaskMgmt.Controllers.AuthController",
+    "Method": "UserAlreadyExists",
+    "RelativePath": "api/Auth/IsUserAlreadyExists",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "Service.RegisterUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskMgmt.Controllers.AuthController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/Auth/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "Service.RegisterUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
